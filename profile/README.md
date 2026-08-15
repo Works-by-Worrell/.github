@@ -9,7 +9,7 @@ This organization houses the public-facing components of my personal engineering
 
 ### 🏗️ Featured Architecture
 *   **[Eldritch Harvester](https://github.com/Works-by-Worrell/eldritch-harvester)**: An autonomous data pipeline (Python, GCP, Gemini) that ingests, deduplicates, and evaluates complex data against a structured private profile.
-*   **Warlock MCP**: A self-hosted Model Context Protocol server running on Cloud Run, providing secure, authenticated persistence and retrieval for the agentic layer.
+*   **Warlock MCP**: A local-first Model Context Protocol server, providing secure persistence and decentralized tool routing for the agentic layer without cloud dependency.
 *   **Infrastructure**: All public repos are governed by strict CI/CD pipelines, conventional commits, and automated format enforcement.
 
 ---
